@@ -2,7 +2,7 @@
 
 # How To Use
 1. Turn Off Your Apache (if Apache is ON)
-2. Download This File From Github
+2. Download this .htaccess
 3. Extract To C:\Xampp\htdocs\
 4. Turn On Your Apache
 5. Done
