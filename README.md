@@ -1,2 +1,3 @@
-# growtopia-server_data.php
-Xampp Config
+# HIDE YOUR Growtopia Server_data.php for Private Server
+.htaccess config
+
