@@ -1,5 +1,5 @@
 # Growtopia Server_Data.php
-Recommend For You To Use This, To Protect Your server_data.php
+
 # How To Use
 1. Turn Off Your Apache (if Apache is ON)
 2. Download This File From Github
