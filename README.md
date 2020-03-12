@@ -1,17 +1,10 @@
 # Growtopia Server_Data.php
+//.htaccess config for apache\\
 
 # How To Use
-1. Turn Off Your Apache (if Apache is ON)
-2. Download this .htaccess
-3. Extract To C:\Xampp\htdocs\
-4. Turn On Your Apache
-5. Done
+1. Download .htaccess
+2. Extract to "C:\xampp\htdocs\"
+3. Done!.
 
-TRONNNNNNN
-
-
-# Changelog 1.0
--New .htaccess config for xampp
--No Lag 1.0
-
+# New Update Soon.
 
